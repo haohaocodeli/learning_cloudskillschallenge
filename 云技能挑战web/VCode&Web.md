@@ -242,3 +242,25 @@ Visual Studio Code UI 左侧是活动栏。 如果没有看到活动栏，请导
 这将告知之前已安装的 Live Server 扩展启动默认 Web 浏览器以服务当前文件中的内容。 应在浏览器的标题栏中看见“Hello World 测试页”，并看见以大标题字体显示的“Hello, World!”。
 
 恭喜！ 你刚刚创建了你的第一个网页。 当然，这是只有你可以看见的内容，因为该页面是由本地运行 Web 服务器（Live Server 扩展）创建的。 你会注意到 Web 地址是为本地计算机保留的 IP 地址。 如果想要让此网页联机可用，需要将其部署到连接到 Internet 的 Web 服务器。 这超出了本次课程模块的范围，但你可以在其他模块中了解此系列。
+
+# 总结
+
+**已完成**100 XP
+
+* 5 分钟
+
+本模块介绍了以下内容：
+
+* Visual Studio Code 的主要功能。
+* 如何下载并安装 Visual Studio Code。
+* 如何安装基本 Web 开发的扩展。
+* 如何使用 Visual Studio Code 的基本编辑器功能。
+* 如何编写并测试简单的 Web 应用。
+
+本模块仅提供简介，但可以继续学习更多模块以深入了解更多功能。 有关 Visual Studio Code 功能的完整详细介绍，请参阅下面提供的链接。
+
+## 其他信息
+
+* [Visual Studio Code 文档](https://code.visualstudio.com/docs)
+* [入门视频](https://code.visualstudio.com/docs/getstarted/introvideos)
+* [Visual Studio Code 可实现此目标](https://vscodecandothat.com/)
